@@ -65,4 +65,6 @@ public class Flower {
     public void setLifeSpan(int lifeSpan) {
         this.lifeSpan = lifeSpan;
     }
+
 }
+
