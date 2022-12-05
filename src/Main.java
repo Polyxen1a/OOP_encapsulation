@@ -43,4 +43,5 @@ public class Main {
         System.out.println("Стоимость букета: " + totalCost);
         System.out.println("Срок стояния букета: " + minimumLifeSpan);
     }
+
     }
