@@ -42,5 +42,7 @@ public class Main {
         totalCost = totalCost * 1.1;
         System.out.println("Стоимость букета: " + totalCost);
         System.out.println("Срок стояния букета: " + minimumLifeSpan);
+
     }
+
     }
